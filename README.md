@@ -18,7 +18,7 @@
     <hr>
 
     <!-- Profile Photo -->
-![image alt](/image/Screenshot_20250927_115921_Gallery.jpg)
+![Image](https://github.com/user-attachments/assets/d818f37b-34e2-4405-a47d-5515601de176)
     <hr>
 
     <!-- Career Objective -->
