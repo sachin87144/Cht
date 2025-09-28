@@ -18,7 +18,7 @@
     <hr>
 
     <!-- Profile Photo -->
-<img src="/image/IMG-20250815-WA0020(1).jpg"hight="200"width="180">
+![image alt](/image/Screenshot_20250927_115921_Gallery.jpg)
     <hr>
 
     <!-- Career Objective -->
